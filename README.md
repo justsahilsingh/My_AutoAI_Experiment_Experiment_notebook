@@ -5,3 +5,4 @@ The learning goals of this notebook are:
 -  Defining an AutoAI experiment
 -  Training AutoAI models
 -  Comparing trained models
+-  Deploying the model as a web service
