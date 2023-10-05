@@ -3,3 +3,6 @@
 ## Notebook goals
 The learning goals of this notebook are:
 -  Defining an AutoAI experiment
+-  Training AutoAI models 
+
+
