@@ -6,3 +6,4 @@ The learning goals of this notebook are:
 -  Training AutoAI models
 -  Comparing trained models
 -  Deploying the model as a web service
+-  Scoring the model to generate predictions
